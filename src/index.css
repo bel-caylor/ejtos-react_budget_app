@@ -72,9 +72,15 @@ code {
     border-radius: 999px;
     font-weight: bold;
     border: none;
+    color: white;
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
 }
 
 .button-green {
-    color: black;
     background: rgb(144, 238, 144);
+}
+.button-red {
+    background: red;
 }
